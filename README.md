@@ -1,4 +1,5 @@
 # TechLink
 Microservice with DDD architecture
-Using SQL database for storage
+Using SQL database for storage.
+### Languange C#
 
